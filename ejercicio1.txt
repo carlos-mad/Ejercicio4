@@ -1,0 +1,7 @@
+Escribe un programa que pida al usuario que introduzca un año (número entero positivo) e indique si ese año es bisiesto o no bisiesto.
+
+Recuerda que un año es bisiesto si cumple estas condiciones:
+
+Es divisible entre 4 y
+
+No es divisible entre 100, excepto si también es divisible entre 400.
