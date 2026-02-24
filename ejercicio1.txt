@@ -1,7 +1,26 @@
-Escribe un programa que pida al usuario que introduzca un año (número entero positivo) e indique si ese año es bisiesto o no bisiesto.
+El programa final deberá tener 4 funcionalidades:
 
-Recuerda que un año es bisiesto si cumple estas condiciones:
+1️⃣ Funcionalidad básica (rama: entrada-anio)
 
-Es divisible entre 4 y
+Pedir al usuario un año.
+Validar que sea un número entero positivo.
+Mostrar el año introducido.
 
-No es divisible entre 100, excepto si también es divisible entre 400.
+2️⃣ Año bisiesto (rama: anio-bisiesto)
+
+Indicar si el año es bisiesto o no.
+Aplicar correctamente la regla:
+Divisible entre 4
+No divisible entre 100, salvo que sea divisible entre 400
+
+3️⃣ Siglo y milenio (rama: siglo-milenio)
+
+Indicar a qué siglo pertenece el año.
+Indicar a qué milenio pertenece el año.
+Ejemplo:
+El año 2024 pertenece al siglo XXI y al tercer milenio.
+
+4️⃣ Rango de años (rama: analisis-rango)
+
+Permitir al usuario introducir dos años.
+Mostrar cuántos años bisiestos hay en ese rango.
